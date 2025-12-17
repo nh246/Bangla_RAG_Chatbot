@@ -54,7 +54,7 @@ project/
 ### 2. Clone or Navigate to Project
 
 ```bash
-cd "E:\OStad Ai Engeneering\Module 17\assignment\project"
+cd "nh246/Bangla_RAG_Chatbot"
 ```
 
 ### 3. Create Virtual Environment (Recommended)
